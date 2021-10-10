@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobiler | MVP Architecture</string>
+    <string name="buttonText">Display Next Course</string>
+    <string name="heading">MVP Architecture Pattern</string>
+    <string name="subHeading">PDP.uz</string>
+    <string name="description">Course Description</string>
+</resources>
